@@ -1,0 +1,19 @@
+{
+  "name": "gistopen",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gistopen",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gistopen": "./gistopen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1wheel/gistopen.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/1wheel/gistopen#readme"
+}

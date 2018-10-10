@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+var { execSync } = require('child_process')
+
+var id = execSync('git remote -v')
+  .toString('utf8')
+  .split(':')[1]
+  .split('.')[0]
+
+execSync('open https://bl.ocks.org/' + id)
