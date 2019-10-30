@@ -1,2 +1,7 @@
 # gistopen
-open bl.ocks from the command line
+
+Open [blocks](https://blocks.roadtolarissa.com/) from the command line.
+
+
+
+
